@@ -1,0 +1,19 @@
+{
+  "name": "weirdead-living-eq-renderer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.530",
+    "@remotion/renderer": "4.0.530",
+    "@remotion/media-utils": "4.0.530",
+    "remotion": "4.0.530",
+    "express": "5.1.0",
+    "nanoid": "5.1.5",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  }
+}
